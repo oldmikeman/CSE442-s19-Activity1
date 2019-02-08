@@ -1,1 +1,7 @@
-wguo24
+mtoldman
+
+
+//AI fix
+if(!robot.know()){
+    robot.learn();
+}
